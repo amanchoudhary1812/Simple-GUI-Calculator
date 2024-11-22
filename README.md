@@ -46,6 +46,15 @@ A basic calculator application with a graphical user interface (GUI) built using
 - Python 3.x
 - Tkinter (usually included with standard Python installations)
 
+
+## Screenshots
+
+<img width="1470" alt="Screenshot 2024-11-22 at 11 57 21 PM" src="https://github.com/user-attachments/assets/d6037c72-1256-4aa4-bd0c-2bb6338376bd">
+
+<img width="1470" alt="Screenshot 2024-11-22 at 11 58 00 PM" src="https://github.com/user-attachments/assets/15c57115-7790-4dee-931f-1f902ecb96ea">
+
+
+
 ## Contributing
 
 1. Fork the repository.
